@@ -3,10 +3,9 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-
 ---
 
-These publications may also be present at [author:"Arumugam, S." AND database:astronomy] (https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Arumugam%2C%20S.%22%20AND%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc).
+These publications may also be present at [author:"Arumugam, S." AND database:astronomy](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Arumugam%2C%20S.%22%20AND%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc).
 * [Classification of pulsar glitch amplitudes using extreme deconvolution](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub). 
 * [Noise analysis of the Indian Pulsar Timing Array data release I](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023008). 
 * [Multiband Extension of the Wideband Timing Technique](https://academic.oup.com/mnras/article/527/1/213/7310865). 
