@@ -12,13 +12,13 @@ redirect_from:
 {% include base_path %}
 
 
-* **Transient Identification using VLASS data to understand Globular Clusters**                        *University of Alberta, Canada*
-*3-Minute Thesis*
+* **Transient Identification using VLASS data to understand Globular Clusters**                        
+
     * Delivered a concise and engaging 3-minute thesis presentation highlighting my transformative internship experience at the
 University of Alberta under the guidance of Prof. Gregory Sivakoff.
 
-* **Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution**                           *IIT Kharagpur, India*
-  *a Poster Presentation*
+* **Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution**                      
+
     * Presented my research paper titled Classification of Pulsar Glitch Amplitudes using Extreme Devolution at the prestigious
 Inter-IIT tournament, showcasing my expertise in astrophysical data analysis.
 
