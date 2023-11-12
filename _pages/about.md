@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Adam K. Leroy --- Research Website"
+title: "Swetha Arumugam"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
