@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adam K. Leroy / Research Site"
+title                    : "Swetha Arumugam"
 title_separator          : "-"
-name                     : &name "Adam K. Leroy"
+name                     : &name "Swetha Arumugam"
 description              : &description "personal description"
 url                      : https://akleroy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
