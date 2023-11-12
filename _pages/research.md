@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Topics I am currently very interested in:
+Topics I am have worked in:
 
 * Arumugam S, Desai S. 2023 Classification of pulsar glitch amplitudes using extreme deconvolution. Journal of High
 Energy Astrophysics 37, 46–50. (doi:10.1016/j.jheap.2022.12.003).
