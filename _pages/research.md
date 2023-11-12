@@ -23,3 +23,10 @@ manage upgraded Giant Metrewave Radio Telescope (uGMRT) legacy database using *P
   * **Raw Data Reduction:** Reducing raw data obtained from observations using Pinta pipeline.
 * Member of **Gravitational Radiation and Science with Pulsars (GRASP)**, where interesting pulsar projects and papers are
 discussed.
+* **Superresolution and Satellite Track Removal in Astronomical Images** under Prof. Sumohanna Channappayya Jan-May’23
+    * Developed a novel method for generating high-resolution astronomical images from low-resolution, blurred observations while
+effectively eliminating satellite trails using Hough Transform technique.
+    * Conducted a comparative analysis between deep learning-based super-resolution reconstruction techniques, specifically the
+CNN process, and advanced wavelet-based methods.
+    * Evaluated the performance of our approach using metrics such as PSNR, MSE, and SSIM, and provided a benchmark for future
+research in this field.
