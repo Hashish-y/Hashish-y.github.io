@@ -3,9 +3,7 @@ layout: archive
 title: "Posters and Presentations"
 permalink: /pap/
 author_profile: true
-redirect_from:
-  - /resume
----
+
 
 {% include base_path %}
 
