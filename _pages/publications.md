@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* Arumugam S, Desai S. 2023 **Classification of pulsar glitch amplitudes using extreme deconvolution**. Journal of High
+* Arumugam S, Desai S. 2023 **Classification of pulsar glitch amplitudes using extreme deconvolution**[Google](https://www.google.com). Journal of High
 Energy Astrophysics **37**, 46–50. (doi:10.1016/j.jheap.2022.12.003).
 * Srivastava A, Desai S, Kolhe N, Surnis M, Joshi BC, Susobhanan A, Chalumeau A, Hisano S, K N, Arumugam S, et al. 2023 **Noise
 analysis of the Indian Pulsar Timing Array data release I**. Phys. Rev. D 108, 023008. (doi:10.1103/PhysRevD.108.023008).
