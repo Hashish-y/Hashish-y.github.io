@@ -1,20 +1,20 @@
 # main links links
 main:
 
-  - title: "Current Research"
-    url: /research/
-
-  - title: "Prospective Students or Postdocs"
-    url: /students/
-
-  - title: "About Me"
-    url: /cv/
-
   - title: "Publications"
     url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Posters and Presentations"
+    url: /posters/
+
+  - title: "Research Experience"
+    url: /researchexperience/
+
+  - title: "PoRs"
+    url: /xyz/
+
+  - title: "Public Spotlights"
+    url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    
