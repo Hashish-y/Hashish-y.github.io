@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Experience"
-permalink: /research experience/
+permalink: /researchexperience/
 author_profile: true
 ---
 * *Research Intern* - MITACS GRI University of Alberta, Canada
