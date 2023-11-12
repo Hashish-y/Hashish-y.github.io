@@ -3,9 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
+
 ---
 
 These publications may also be present at [author:"Arumugam, S." AND database:astronomy] (https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Arumugam%2C%20S.%22%20AND%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc).
