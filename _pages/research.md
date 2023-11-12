@@ -3,9 +3,7 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-redirect_from: 
-  - /projects/
-  - /projects.html
+
 ---
 * **Research Intern** - MITACS GRI University of Alberta, Canada
 under Prof. Gregory Sivakoff May 2023 - Aug 2023
