@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a student from IIT Hyderabad I study galaxies, the interstellar medium, star formation, and stellar feedback, often using radio, millimeter, and infrared observations from ground and space based observatories. 
+I am a student from IIT Hyderabad, I study galaxies, the interstellar medium, star formation, and stellar feedback, often using radio, millimeter, and infrared observations from ground and space based observatories. 
 
 This is my personal research website. Using the menu at the top you can find out a little bit about me (including my CV), find links to a current list of research publications by me and my collaborators, and find information (especially aimed at prospective students and postdoctorall scholars) about my current research efforts and opportunities for collaboration and student involvement.
 
