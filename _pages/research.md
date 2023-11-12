@@ -1,20 +1,25 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
-
-I am generally interested in most things having to do with galaxies, the interstellar medium, star formation, and stellar feedback. In astronomer-speak I am an "observer" meaning that I spend a lot of my energy planning new experiments using telescopes, executing the observations, and analyzing the results. Because of this focus, my current interests tend to follow current and upcoming facilities (or be focused on pushing for new facilities).
-
 Topics I am currently very interested in:
 
-* **Dust in galaxies.** I'm interest in how we can use emission from dust, especially the mid-infrared emission observed by the new JWST, to infer how stars and star clusters form and reshape the surrounding galaxy. I'm also interested in dust for dust's sake - this solid phase of the ISM holds about half the heavy elements in the universe and totally reshaps how galaxies look. We're in a golden era (literally!) that's very exciting. Before JWST I worked with data from Spitzer, Herschel, WISE, and even IRAS and COBE.
-
-* **Molecular clouds and cold gas in galaxies.** Stars form out of cold "molecular" gas (here "molecular" means it's mostly H2 by mass). The detailed structure, physical properties, and even amount of this molecular material are interlinked at a deep level with galaxy evolution. Some galaxies are much better at making molecular gas than others, the amount of really dense molecular gas varies, and the structure and properties of the molecular gas clouds ("stellar nurseries") varies. The still-pretty-new ALMA array is a simply revolutionary telescope to tackle these questions, often using molecular line-focused spectroscopic techniques. I have been interested in this topic since my time as a graduate student and it continues to be a major theme of my work.
-
-* **The physical state and detailed structure of atomic gas in galaxies.** Molecular gas is cool (ha!) but most of the gas in most present day universe is actually atomic gas, meaning plain old hydrogen atoms. This atomic gas (HI) fills much of interstellar space and it shows a wide range of temperatures and densities. Because of this, there is much more variability in the link between atomic gas and star formation than between molecular gas and star formation, which makes it very interesting to try to map out the physical state of the HI, its detailed structure, and then link this to back to galaxy evolution. Unfortunately this is hard - because the 21cm line emission from galaxies is faint even interferometers struggle for great resolution. This is likely to be a huge topic with the next generation VLA and the SKA, but we don't want to wait to get answers to these key questions (and we want to get ready for these next facilities). To tackle this topic, my collaborators and I have been running a major survey of the closest galaxies using NRAO's Jansky VLA - the best current northern radio telescope to tackle this topic.
-
-* **Putting it all together - panchromatic surveys.** My personal view is that the best approach to unravel "galaxy ecosystems" is to build ambitious panchromatic surveys. By this I mean placing high quality surveys of stars, ionized gas, molecular gas, atomic gas, kinematics "on top of one another" to form a rich database. These combined "panchromatic surveys" offer a fantastic space to design new experiments, asking and answering astrophysical questions from "data on disk." This requires coordinating telescopes from different countries across the spectrum, and working with different proposal processes, review systems, and pushing over years. But I think the scientific payoff here has been proven to be very large.
-
-* **Pushing current facilities to their limits.** I am generally interested in trying to get the largest possible amount of science out of our telescopes. Over the years, my collaborators and I have used ALMA and the VLA to observe star clusters forming at super high resolution. We've also stared very depe with the Green Bank telescope to see the faintest wisps of HI in the circumgalactic medium. We developped clever stacking and statistical techniques to push the sensitivity of extragalactic mapping data to recover faint lines.
+* Arumugam S, Desai S. 2023 Classification of pulsar glitch amplitudes using extreme deconvolution. Journal of High
+Energy Astrophysics 37, 46–50. (doi:10.1016/j.jheap.2022.12.003).
+* Srivastava A, Desai S, Kolhe N, Surnis M, Joshi BC, Susobhanan A, Chalumeau A, Hisano S, K N, Arumugam S, et al. 2023 Noise
+analysis of the Indian Pulsar Timing Array data release I. Phys. Rev. D 108, 023008. (doi:10.1103/PhysRevD.108.023008).
+* Paladi AK, Dwivedi C, Rana P, K N, Susobhanan A, Joshi BC, Tarafdar P, Deb D, Arumugam S, Gopakumar A, et al. 2023 Multiband Extension of the Wideband Timing Technique. arXiv e-prints arXiv:2304.13072. (doi:10.48550/arXiv.2304.13072).
+* Antoniadis J, Arumugam P, Arumugam S, Babak S, Bagchi M, Bak Nielsen AS, Bassa CG, Bathula A, Berthereau A, Bonetti M,
+et al. 2023 The second data release from the European Pulsar Timing Array II. Customised pulsar noise models
+for spatially correlated gravitational waves. arXiv e-prints arXiv:2306.16225. (doi:10.48550/arXiv.2306.16225).
+* Antoniadis J, Arumugam P, Arumugam S, Babak S, Bagchi M, Bak Nielsen AS, Bassa CG, Bathula A, Berthereau A, Bonetti
+M, et al. 2023 The second data release from the European Pulsar Timing Array III. Search for gravitational wave
+signals. arXiv e-prints arXiv:2306.16214. (doi:10.48550/arXiv.2306.16214).
+* Antoniadis J, Arumugam P, Arumugam S, Babak S, Bagchi M, Bak Nielsen AS, Bassa CG, Bathula A, Berthereau A, Bonetti M,
+et al. 2023 The second data release from the European Pulsar Timing Array IV. Search for continuous gravitational
+wave signals. arXiv e-prints arXiv:2306.16226. (doi:10.48550/arXiv.2306.16226).
+* Antoniadis J, Arumugam P, Arumugam S, Auclair P, Babak S, Bagchi M, Bak Nielsen AS, Barausse E, Bassa CG, Bathula A, et al.
+2023 The second data release from the European Pulsar Timing Array: V. Implications for massive black holes,
+dark matter and the early Universe. arXiv e-prints arXiv:2306.16227. (doi:10.48550/arXiv.2306.16227).
