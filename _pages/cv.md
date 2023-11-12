@@ -18,7 +18,7 @@ redirect_from:
 University of Alberta under the guidance of Prof. Gregory Sivakoff.
 
 * **Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution**                           *IIT Kharagpur, India*
-*Poster Presentation*
+  *a Poster Presentation*
       * Presented my research paper titled Classification of Pulsar Glitch Amplitudes using Extreme Devolution at the prestigious
 Inter-IIT tournament, showcasing my expertise in astrophysical data analysis.
 
