@@ -5,13 +5,13 @@ main:
     url: /publications/
 
   - title: "Posters and Presentations"
-    url: /posters/
+    url: https://swetha9730.github.io/posters/
 
   - title: "Projects"
     url: /projects/
 
   - title: "PoRs"
-    url: /pors/
+    url: https://swetha9730.github.io/pors/
 
   - title: "Public Spotlights"
     url: /talks/    
