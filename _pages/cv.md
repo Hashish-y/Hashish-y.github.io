@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Posters and Presentations"
-permalink: /pap/
+permalink: /posters/
 author_profile: true
 
 
