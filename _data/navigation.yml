@@ -2,19 +2,19 @@
 main:
 
   - title: "Publications"
-    url: /publications/
+    url: https://swetha9730.github.io/publications/
 
   - title: "Posters and Presentations"
     url: https://swetha9730.github.io/posters/
 
   - title: "Projects"
-    url: /projects/
+    url: https://swetha9730.github.io/projects/
 
   - title: "PoRs"
     url: https://swetha9730.github.io/pors/
 
   - title: "Public Spotlights"
-    url: /spotlights/    
+    url: https://swetha9730.github.io/spotlights/    
 
   #- title: "Teaching"
   #  url: /teaching/    
