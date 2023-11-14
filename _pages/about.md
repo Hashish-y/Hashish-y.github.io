@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a student from IIT Hyderabad, I study galaxies, the interstellar medium, star formation, and stellar feedback, often using radio, millimeter, and infrared observations from ground and space based observatories. 
+Hello! I'm Swetha Arumugam, an undergrad majoring in Electrical Engineering. Like a voyage through uncharted galaxies, my path may have begun with electrons and circuits, but it soon led me to explore the enigmatic realm of astronomy. 
 
-This is my personal research website. Using the menu at the top you can find out a little bit about me (including my CV), find links to a current list of research publications by me and my collaborators, and find information (especially aimed at prospective students and postdoctorall scholars) about my current research efforts and opportunities for collaboration and student involvement.
+I am particularly drawn to the captivating realms of Compact Objects and Gravitational Waves (GWs) studied across various spectrums like Radio and X-ray. As I look ahead to the pursuit of a Ph.D. in P&A, my overarching goal is to make meaningful contributions to the understanding of the universe's most enigmatic processes.
+
+I am an associate member of the Indian Pulsar Timing Array Consortium (InPTA), where we used pulsar timing array (PTA) experiments to detect nanoHertz Gravitational Waves. You can learn more about the work we do [here]("https://inpta.iitr.ac.in/").
+
+     This is my personal website. 
 
 **Credits:** This website is modified from the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
