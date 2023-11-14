@@ -13,7 +13,7 @@ Mentored junior members in a club project focused on the Smart Helmet. Additiona
 Monitoring Clock as part of my club contributions.
 
 **Cepheid Core Member**
-<sub>*Astronomy and Astrophysics club of IITH in July 2021 - April 2022*</sub?
+<sub>*Astronomy and Astrophysics club of IITH in July 2021 - April 2022*</sub>
 
 Organized outreach events, informative sessions, and captivating stargazing events that connected students and enthusiasts
 with the wonders of the cosmos. Collaborated effectively with the Electronics Club to facilitate access to a telescope, enabling
