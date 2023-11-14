@@ -17,3 +17,7 @@ effectively eliminating satellite trails using Hough Transform technique.
 CNN process, and advanced wavelet-based methods.
    * Evaluated the performance of our approach using metrics such as PSNR, MSE, and SSIM, and provided a benchmark for future
 research in this field
+
+This is normal-sized text.
+
+<sub>This is smaller text below.</sub>
