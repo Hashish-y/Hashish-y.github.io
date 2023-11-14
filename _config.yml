@@ -83,8 +83,8 @@ author:
   name             : "Swetha Arumugam"
   avatar           : "akl_picture_2017.jpeg"
   bio              : "Undergrad student at IIT-Hyderabad aiming to pursue PhD in Physics/Astronomy"
-  Linkedin         : "https://www.linkedin.com/in/swetha-arumugam-955751217/"
-  employer         : "Indian Institute of Techlogy Hyderabad"
+  location         : #"https://www.linkedin.com/in/swetha-arumugam-955751217/"
+  employer         : "Indian Institute of Technology Hyderabad"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : leroy.42@osu.edu
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/swetha-arumugam-955751217/"
   orcid            : "https://orcid.org/0009-0001-3587-6622"
   pinterest        :
   soundcloud       :
