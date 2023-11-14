@@ -7,7 +7,6 @@ author_profile: true
 ---
 
 **Superresolution and Satellite Track Removal in Astronomical Images**
-
 <sub>*under Prof. Sumohanna Channappayya during                                  Jan-May’23*<sub>                               
     
    * Developed a novel method for generating high-resolution astronomical images from low-resolution, blurred observations while
