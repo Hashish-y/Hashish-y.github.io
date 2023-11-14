@@ -14,6 +14,6 @@ I am particularly drawn to the captivating realms of Compact Objects and Gravita
 
 I am an associate member of the Indian Pulsar Timing Array Consortium (InPTA), where we used pulsar timing array (PTA) experiments to detect nanoHertz Gravitational Waves. You can learn more about the work we do [here]("https://inpta.iitr.ac.in/").
 
-     This is my personal website. 
+This is my personal website. 
 
 **Credits:** This website is modified from the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
