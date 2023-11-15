@@ -17,7 +17,7 @@ redirect_from:
 Delivered a concise and engaging 3-minute thesis presentation highlighting my transformative internship experience at the
 University of Alberta under the guidance of Prof. Gregory Sivakoff.
 
-<font size="4">Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution</font>  
+**<font size="4">Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution</font>**  
 *<font size="2">Poster Presentation</font>*<br>
 <font size ="2">IIT Kharagpur, India</font><br>
 Presented my research paper titled Classification of Pulsar Glitch Amplitudes using Extreme Devolution at the prestigious
