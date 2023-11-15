@@ -22,8 +22,8 @@ Organized outreach events, informative sessions, and captivating stargazing even
 with the wonders of the cosmos. Collaborated effectively with the Electronics Club to facilitate access to a telescope, enabling
 students to witness and learn about celestial phenomena firsthand
 
-<big>**Epoch member**</big>
-***<font size="2">Machine Learning and Data Science Club of IITH</font>***
+<big>**Epoch member**</big>  
+***<font size="2">Machine Learning and Data Science Club of IITH</font>***  
 *<font size="2">in July 2021 - April 2022</font>*
 
 Active member of the Machine Learning and Data Science Club, participating in knowledge-sharing sessions, collaborative data
