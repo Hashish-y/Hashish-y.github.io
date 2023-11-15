@@ -12,8 +12,7 @@ Hello! I'm Swetha Arumugam, an undergrad majoring in Electrical Engineering. Lik
 
 I am particularly drawn to the captivating realms of Compact Objects and Gravitational Waves (GWs) studied across various spectrums like Radio and X-ray. As I look ahead to the pursuit of a Ph.D. in P&A, my overarching goal is to make meaningful contributions to the understanding of the universe's most enigmatic processes.
 
-I am an associate member of the Indian Pulsar Timing Array Consortium (InPTA), where we used pulsar timing array (PTA) experiments to detect nanoHertz Gravitational Waves. You can learn more about the work we do [here]("https://inpta.iitr.ac.in/")
+I am an associate member of the Indian Pulsar Timing Array Consortium (InPTA), where we used pulsar timing array (PTA) experiments to detect nanoHertz Gravitational Waves. You can learn more about the work we do here.
 
-This is my personal website. 
 
 **Credits:** This website is modified from the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
