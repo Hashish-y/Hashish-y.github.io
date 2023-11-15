@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-**<font size="5">Superresolution and Satellite Track Removal in Astronomical Images</font>**  
+**<font size="4">Superresolution and Satellite Track Removal in Astronomical Images</font>**  
 ***<font size="2">under Prof. Sumohanna Channappayya</font>***  
 *<font size="2">Jan-May’23</font>*  
    * Developed a novel method for generating high-resolution astronomical images from low-resolution, blurred observations while
@@ -17,7 +17,7 @@ CNN process, and advanced wavelet-based methods.
 research in this field
 
 
-**<font size="5">Residual Self-Interference Cancellation and Optimal Control with RIS for Full-Duplex Communication</font>**  
+**<font size="4">Residual Self-Interference Cancellation and Optimal Control with RIS for Full-Duplex Communication</font>**  
 ***<font size="2">under Prof. Zafar Ali Khan</font>***  
 *<font size="2">during Jan-May’23</font>*  
    * Implemented and analyzed Full-Duplex Communication Systems using Python to improve its reliability.
