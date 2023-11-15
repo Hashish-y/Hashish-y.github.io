@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-<big>**Superresolution and Satellite Track Removal in Astronomical Images**<big>  
+<big>**Superresolution and Satellite Track Removal in Astronomical Images**</big>  
 ***<font size="2">under Prof. Sumohanna Channappayya</font>***  
 *<font size="2">Jan-May’23</font>*  
    * Developed a novel method for generating high-resolution astronomical images from low-resolution, blurred observations while
@@ -17,7 +17,7 @@ CNN process, and advanced wavelet-based methods.
 research in this field
 
 
-**<font size="5">Residual Self-Interference Cancellation and Optimal Control with RIS for Full-Duplex Communication</font>**  
+**<big>Residual Self-Interference Cancellation and Optimal Control with RIS for Full-Duplex Communication</big>**  
 ***<font size="2">under Prof. Zafar Ali Khan</font>***  
 *<font size="2">during Jan-May’23</font>*  
    * Implemented and analyzed Full-Duplex Communication Systems using Python to improve its reliability.
@@ -27,7 +27,7 @@ method, demonstrating their potential to improve the performance of full-duplex 
 addressing challenges such as self-interference and transmit power consumption.
 
 
-**<font size="5">Correlation Coefficients</font>**  
+**<big>Correlation Coefficients</big>**  
 ***<font size="2">under Prof. Shantanu Desai</font>***  
 *<font size="2">during Jan-May’22*</font>*  
    * Conducted a statistical analysis of correlation coefficients, including Pearson’s sample correlation coefficient, Spearman rank
@@ -37,7 +37,7 @@ data engineering.
    * Demonstrated proficiency in data analysis and statistical modeling techniques, including hypothesis testing and regression analysis.
 
 
-**<font size="5">Cosmic Lithium Problem: Non-Gaussian Error Distribution of ⁷₃Li  Abundance Measurements</font>**  
+**<big>Cosmic Lithium Problem: Non-Gaussian Error Distribution of ⁷₃Li  Abundance Measurements</big>**  
    * Undertook an independent study to enhance personal understanding of the Cosmic Lithium Problem, drawing inspiration from
 the research findings of Crandall, S., Houston, S., & Ratra, B. (2014).
    * Conducted an analysis of the error distribution in ⁷₃Li  abundance measurements sourced from the research conducted by Spite
@@ -47,7 +47,7 @@ et al, with the aim of assessing its statistical significance.
 Lithium Problem.
 
 
-**<font size="5">Electrical Projects:</font>**  
+**<big>Electrical Projects:</big>**  
    * Spearheaded a project focused on Digital Signal Processing, encompassing the design and implementation of innovative
 solutions to real-world electrical engineering challenges.
    * Demonstrated adeptness in signal conditioning techniques by conceiving and designing a Schmitt trigger circuit, leveraging
