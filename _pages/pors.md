@@ -5,7 +5,7 @@ permalink: /pors/
 author_profile: true
 ---
 
-**<font size="5">IIT-HYDERABAD</font>**  
+<font size="5">IIT-HYDERABAD</font>  
 
 <big>**Electronika Senior Core Member**</big>   
 ***<font size="2">Electronics club of IITH</font>***  
