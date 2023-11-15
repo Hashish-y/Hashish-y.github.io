@@ -11,37 +11,37 @@ These publications may also be present at [NASA/ADS](https://ui.adsabs.harvard.e
 <font size="3"> We carry out a classification of the glitch amplitudes of radio pulsars using Extreme Deconvolution technique based on the Gaussian Mixture Model, where the observed uncertainties in the glitch amplitudes.</font>
 
 
-[**Noise analysis of the Indian Pulsar Timing Array data release I**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023008).
+[**Noise analysis of the Indian Pulsar Timing Array data release I.**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023008)  
 <font size="3"> The Indian Pulsar Timing Array (InPTA) collaboration has recently made its first official data release (DR1) for a sample of 14 pulsars using 3.5 years of uGMRT observations.</font>
 
 
-[**Multiband Extension of the Wideband Timing Technique.**](https://academic.oup.com/mnras/article/527/1/213/7310865)
+[**Multiband Extension of the Wideband Timing Technique.**](https://academic.oup.com/mnras/article/527/1/213/7310865)  
 <font size="3"> The wideband timing technique enables the high-precision simultaneous estimation of pulsar times of arrival (ToAs) and dispersion measures (DMs) while effectively modelling frequency-dependent profile evolution.</font>
 
 [**The second data release from the European Pulsar Timing Array II. Customised pulsar noise models
-for spatially correlated gravitational waves.**](https://www.aanda.org/articles/aa/full_html/2023/10/aa46842-23/aa46842-23.html)
+for spatially correlated gravitational waves.**](https://www.aanda.org/articles/aa/full_html/2023/10/aa46842-23/aa46842-23.html)  
 <font size="3"> The nanohertz gravitational wave background (GWB) is expected to be an aggregate signal of an ensemble of gravitational waves emitted predominantly by a large population of coalescing supermassive black hole binaries in the centres of merging galaxies.</font>
 
 
 [**The second data release from the European Pulsar Timing Array III. Search for gravitational wave
-signals.**](https://www.aanda.org/articles/aa/abs/2023/10/aa46844-23/aa46844-23.html)
+signals.**](https://www.aanda.org/articles/aa/abs/2023/10/aa46844-23/aa46844-23.html)  
 <font size="3"> We present the results of the search for an isotropic stochastic gravitational wave background (GWB) at nanohertz frequencies using the second data release of the European Pulsar Timing Array (EPTA) for 25 millisecond pulsars and a combination with the first data release of the Indian Pulsar Timing Array (InPTA).</font>
 
 
 [**The second data release from the European Pulsar Timing Array IV. Search for continuous gravitational
-wave signals.**](https://arxiv.org/abs/2306.16226)
+wave signals.**](https://arxiv.org/abs/2306.16226)  
 <font size="3"> We present the results of a search for continuous gravitational wave signals (CGWs) in the second data release (DR2) of the European Pulsar Timing Array (EPTA) collaboration.</font>
 
 
 [**The second data release from the European Pulsar Timing Array: V. Implications for massive black holes,
-dark matter and the early Universe.**](https://arxiv.org/abs/2306.162271)
+dark matter and the early Universe.**](https://arxiv.org/abs/2306.162271)  
 <font size="3"> We present the results of a search for continuous gravitational wave signals (CGWs) in the second data release (DR2) of the European Pulsar Timing Array (EPTA) collaboration.</font>
 
 
-[**Comparing recent PTA results on the nanohertz stochastic gravitational wave background.**](https://arxiv.org/abs/2309.00693)
+[**Comparing recent PTA results on the nanohertz stochastic gravitational wave background.**](https://arxiv.org/abs/2309.00693)  
 <font size="3"> The Australian, Chinese, European, Indian, and North American pulsar timing array (PTA) collaborations recently reported, at varying levels, evidence for the presence of a nanohertz gravitational wave background (GWB). </font>
 
 
-[**Using low-frequency scatter-broadening measurements for precision estimates of dispersion measures.**](https://arxiv.org/abs/2309.16765)
+[**Using low-frequency scatter-broadening measurements for precision estimates of dispersion measures.**](https://arxiv.org/abs/2309.16765)  
 <font size="3"> A pulsar's pulse profile gets broadened at low frequencies due to dispersion along the line of sight or due to multi-path propagation.</font>
 
