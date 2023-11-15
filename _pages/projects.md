@@ -6,10 +6,10 @@ author_profile: true
 
 ---
 
-**Superresolution and Satellite Track Removal in Astronomical Images**
-<sub>*under Prof. Sumohanna Channappayya during                                  Jan-May’23*<sub>                               
-    
-   * Developed a novel method for generating high-resolution astronomical images from low-resolution, blurred observations while
+**<font size="5">Superresolution and Satellite Track Removal in Astronomical Images</font>**  
+***<font size="2">under Prof. Sumohanna Channappayya</font>***  
+*<font size="2">Jan-May’23*</font>*  
+    * Developed a novel method for generating high-resolution astronomical images from low-resolution, blurred observations while
 effectively eliminating satellite trails using Hough Transform technique.
    * Conducted a comparative analysis between deep learning-based super-resolution reconstruction techniques, specifically the
 CNN process, and advanced wavelet-based methods.
@@ -17,9 +17,9 @@ CNN process, and advanced wavelet-based methods.
 research in this field
 
 
-**Residual Self-Interference Cancellation and Optimal Control with RIS for Full-Duplex Communication**
-<sub>*under Prof. Zafar Ali Khan during Jan-May’23*</sub>
-
+**<font size="5">Residual Self-Interference Cancellation and Optimal Control with RIS for Full-Duplex Communication</font>**  
+***<font size="2">under Prof. Zafar Ali Khan</font>***  
+*<font size="2">during Jan-May’23</font>*  
    * Implemented and analyzed Full-Duplex Communication Systems using Python to improve its reliability.
    * Conducted simulations to evaluate the effectiveness of the traditional method, superimposed method, and ’self-proposed’
 method, demonstrating their potential to improve the performance of full-duplex communication systems.
@@ -27,9 +27,9 @@ method, demonstrating their potential to improve the performance of full-duplex 
 addressing challenges such as self-interference and transmit power consumption.
 
 
-**Correlation Coefficients**
-<sub>*under Prof. Shantanu Desai during Jan-May’22*</sub>
-
+**<font size="5">Correlation Coefficients</font>**  
+***<font size="2">under Prof. Shantanu Desai</font>***  
+*<font size="2">during Jan-May’22*</font>*  
    * Conducted a statistical analysis of correlation coefficients, including Pearson’s sample correlation coefficient, Spearman rank
 correlation coefficient, and Kendall Tau.
    * Analyzed the characteristics of each coefficient and their applications in exploratory data analysis, structural modeling, and
@@ -37,7 +37,7 @@ data engineering.
    * Demonstrated proficiency in data analysis and statistical modeling techniques, including hypothesis testing and regression analysis.
 
 
-**Cosmic Lithium Problem: Non-Gaussian Error Distribution of ⁷₃Li  Abundance Measurements**
+**<font size="5">Cosmic Lithium Problem: Non-Gaussian Error Distribution of ⁷₃Li  Abundance Measurements</font>**  
    * Undertook an independent study to enhance personal understanding of the Cosmic Lithium Problem, drawing inspiration from
 the research findings of Crandall, S., Houston, S., & Ratra, B. (2014).
    * Conducted an analysis of the error distribution in ⁷₃Li  abundance measurements sourced from the research conducted by Spite
@@ -47,7 +47,7 @@ et al, with the aim of assessing its statistical significance.
 Lithium Problem.
 
 
-**Electrical Projects:**
+**<font size="5">Electrical Projects:</font>**  
    * Spearheaded a project focused on Digital Signal Processing, encompassing the design and implementation of innovative
 solutions to real-world electrical engineering challenges.
    * Demonstrated adeptness in signal conditioning techniques by conceiving and designing a Schmitt trigger circuit, leveraging
