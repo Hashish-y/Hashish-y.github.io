@@ -29,7 +29,7 @@ addressing challenges such as self-interference and transmit power consumption.
 
 **<big>Correlation Coefficients</big>**  
 ***<font size="2">under Prof. Shantanu Desai</font>***  
-*<font size="2">during Jan-May’22*</font>*  
+*<font size="2">during Jan-May’22</font>*  
    * Conducted a statistical analysis of correlation coefficients, including Pearson’s sample correlation coefficient, Spearman rank
 correlation coefficient, and Kendall Tau.
    * Analyzed the characteristics of each coefficient and their applications in exploratory data analysis, structural modeling, and
