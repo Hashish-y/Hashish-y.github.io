@@ -11,7 +11,7 @@ These publications may also be present at [NASA/ADS](https://ui.adsabs.harvard.e
 <font size="3"> We carry out a classification of the glitch amplitudes of radio pulsars using Extreme Deconvolution technique based on the Gaussian Mixture Model, where the observed uncertainties in the glitch amplitudes.</font>
 
 
-[**Noise analysis of the Indian Pulsar Timing Array data release I.**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023008)  
+[**Noise analysis of the Indian Pulsar Timing Array data release I**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023008).  
 <font size="3"> The Indian Pulsar Timing Array (InPTA) collaboration has recently made its first official data release (DR1) for a sample of 14 pulsars using 3.5 years of uGMRT observations.</font>
 
 
