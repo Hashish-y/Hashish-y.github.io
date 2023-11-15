@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 
 ---
-**<font size="4">Research Intern</font>**<font size="4"> - MITACS GRI</font>  
+**<big>Research Intern</big>**<big> - MITACS GRI</big>  
 ***<font size="2">University of Alberta, Canada</font>***  
 *<font size="2">under Prof. Gregory Sivakoff </font>*
 *<font size="2">May 2023 - Aug 2023</font>*  
@@ -15,9 +15,10 @@ further in the study of **Globular Clusters**.
   * Developed computational pipeline for advanced data analysis and handling of large datasets of VLASS in Python.
   * Contributed to refining transient identification and classification using the VLASS data.
 
-### Indian Pulsar Timing Array Consortium (InPTA) Pune, India
-***<font size="2">Associate Member</font>***
-*<font size="2">June 2022 - Present</font>*
+<big>**Indian Pulsar Timing Array Consortium (InPTA)**</big>  
+***<font size="2">Associate Member</font>***  
+*<font size="2">Pune,India</font>*  
+*<font size="2">June 2022 - Present</font>*  
   * **Data Base Management:** Currently working with the National Center for Radio Astrophysics (NCRA) to develop and
 manage upgraded Giant Metrewave Radio Telescope (uGMRT) legacy database using *PostgreSQL*.
   * **Observational Radio Astronomy** Active observer for InPTA, conducting 50+ hours of observations using uGMRT.
