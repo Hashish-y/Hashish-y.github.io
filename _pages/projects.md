@@ -9,7 +9,7 @@ author_profile: true
 **<font size="5">Superresolution and Satellite Track Removal in Astronomical Images</font>**  
 ***<font size="2">under Prof. Sumohanna Channappayya</font>***  
 *<font size="2">Jan-May’23</font>*  
-    * Developed a novel method for generating high-resolution astronomical images from low-resolution, blurred observations while
+   * Developed a novel method for generating high-resolution astronomical images from low-resolution, blurred observations while
 effectively eliminating satellite trails using Hough Transform technique.
    * Conducted a comparative analysis between deep learning-based super-resolution reconstruction techniques, specifically the
 CNN process, and advanced wavelet-based methods.
