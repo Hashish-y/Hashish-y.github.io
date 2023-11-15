@@ -7,12 +7,11 @@ author_profile: true
 
 These publications may also be present at [NASA/ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Arumugam%2C%20S.%22%20AND%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc).
 
-[**Classification of pulsar glitch amplitudes using extreme deconvolution.**](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub) 
-  <font size="3"> We carry out a classification of the glitch amplitudes of radio pulsars using Extreme Deconvolution technique based on the Gaussian Mixture Model, where the observed uncertainties in the glitch amplitudes.</font>
+[**Classification of pulsar glitch amplitudes using extreme deconvolution.**](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub)   <font size="3"> We carry out a classification of the glitch amplitudes of radio pulsars using Extreme Deconvolution technique based on the Gaussian Mixture Model, where the observed uncertainties in the glitch amplitudes.</font>
 
 
 [**Noise analysis of the Indian Pulsar Timing Array data release I.**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023008)<br>
-<font size="3"> The Indian Pulsar Timing Array (InPTA) collaboration has recently made its first official data release (DR1) for a sample of 14 pulsars using 3.5 years of uGMRT observations.</font>
+<font size="4"> The Indian Pulsar Timing Array (InPTA) collaboration has recently made its first official data release (DR1) for a sample of 14 pulsars using 3.5 years of uGMRT observations.</font>
 
 
 [**Multiband Extension of the Wideband Timing Technique.**](https://academic.oup.com/mnras/article/527/1/213/7310865)  
