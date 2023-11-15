@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Public Spotlights"
+title: "Public Spotlight"
 permalink: /spotlights/
 author_profile: true
 ---
