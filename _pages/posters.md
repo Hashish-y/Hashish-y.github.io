@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-<font size="4"> **Transient Identification using VLASS data to understand Globular Clusters** </font>  
+### Transient Identification using VLASS data to understand Globular Clusters  
 <font size="2">*3-minute thesis*</font>  
 <font size="2">**University of Alberta, Canada**</font>  
 Delivered a concise and engaging 3-minute thesis presentation highlighting my transformative internship experience at the
