@@ -11,7 +11,7 @@ author_profile: true
 <div style="text-align: right;margin-top: 0px;"><span style="font-size: 12px;">May 2023 - Aug 2023</span></div>
 
 
-  * <font size="3">Cross-Matched VLASS catalog with Gaia sub-sub-giants <strong>(SSGs)</strong> catalog to identify *transient* and variable events, to help
+  * <font size="3">Cross-Matched VLASS catalog with Gaia sub-sub-giants <strong>(SSGs)</strong> catalog to identify <em>transient</em> and variable events, to help
 further in the study of <strong>Globular Clusters</strong>.</font>
   * <font size="3">Performed analysis of VLASS FITS files in <strong>Python</strong> and <strong>ds9</strong>.</font>
   * <font size="3">Developed computational pipeline for advanced data analysis and handling of large datasets of VLASS in Python.</font>
