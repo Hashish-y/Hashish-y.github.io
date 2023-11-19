@@ -14,7 +14,7 @@ redirect_from:
 **<font size="5">Presentation</font>**  
 <font size="4">Transient Identification using VLASS data to understand Globular Clusters</font>
 <div style="text-align: right;margin-top: -10px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
-<div margin-top:0px;><font size="2"><em>3-minute thesis</em></font></div>
+<div margin-top: 0px;><font size="2"><em>3-minute thesis</em></font></div>
 
 
 <font size="3">Delivered a concise and engaging 3-minute thesis presentation highlighting my transformative internship experience at the
