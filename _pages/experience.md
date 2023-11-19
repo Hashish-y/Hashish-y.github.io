@@ -7,7 +7,7 @@ author_profile: true
 ---
 **<big>Research Intern</big>**<big> - MITACS GRI</big>  
 *<font size="2">under Prof. Gregory Sivakoff </font>*
-<div style="text-align: right;margin-top: -1000px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
+<div style="text-align: right;margin-top: -100px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
 <div style="text-align: right;margin-top: 0px;"><span style="font-size: 12px;">May 2023 - Aug 2023</span></div>
 
 
