@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 
 ---
-<span style="border-bottom: 1px solid black; display: inline-block; margin-bottom: 0.4em;"><strong>Research Intern</strong>-MITACS GRI</span>  
+<span style="border-bottom: 1px solid black; display: inline-block; margin-bottom: 0.4em;"><strong>Research Intern-MITACS GRI</strong></span>  
 *<font size="2">under Prof. Gregory Sivakoff </font>*
 <div style="text-align: right;margin-top: -80px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
 <div style="text-align: right;margin-top: 0px;"><span style="font-size: 12px;">May 2023 - Aug 2023</span></div>
@@ -18,8 +18,8 @@ further in the study of <strong>Globular Clusters</strong>.</font>
   * <font size="3">Contributed to refining transient identification and classification using the VLASS data.</font>
 
 
-<span style="text-decoration: underline;">Indian Pulsar Timing Array Consortium (InPTA)</span>  
-***<font size="2">Associate Member</font>***
+<span style="border-bottom: 1px solid black; display: inline-block; margin-bottom: 0.4em;"><strong>Indian Pulsar Timing Array Consortium (InPTA)</strong></span>  
+*<font size="2">Associate Member</font>*
 <div style="text-align: right;margin-top: -80px;"><span style="font-size: 12px;">Pune, India</span></div>
 <div style="text-align: right;margin-top: 0px;"><span style="font-size: 12px;">June 2022 - Present</span></div>
 
