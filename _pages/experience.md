@@ -7,7 +7,7 @@ author_profile: true
 ---
 **<big>Research Intern</big>**<big> - MITACS GRI</big>  
 *<font size="2">under Prof. Gregory Sivakoff </font>*
-<div style="text-align: right;margin-top: -10px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
+<div style="text-align: right;margin-top: -50px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
 *<font size="2">May 2023 - Aug 2023</font>*  
   * Cross-Matched VLASS catalog with Gaia sub-sub-giants **(SSGs)** catalog to identify *transient* and variable events, to help
 further in the study of **Globular Clusters**.
