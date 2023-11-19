@@ -20,7 +20,7 @@ redirect_from:
 University of Alberta under the guidance of Prof. Gregory Sivakoff.</font>
 
 ## Poster
-Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution
+<span style="text-decoration: underline;">Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution</span> 
 <div style="text-align: left;margin-top: -25px;"><span style="font-size: 12px;"><em>Poster Presentation</em></span></div>
 <div style="text-align: right;margin-top: -25px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
   
