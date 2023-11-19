@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 
 **<font size="5">Presentation</font>**  
-<big>**Transient Identification using VLASS data to understand Globular Clusters**</big>  
+<big>Transient Identification using VLASS data to understand Globular Clusters</big>  
 *<font size="2">3-minute thesis</font>*  
 <div style="text-align: right;margin-top: -55px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
 
@@ -21,7 +21,7 @@ Delivered a concise and engaging 3-minute thesis presentation highlighting my tr
 University of Alberta under the guidance of Prof. Gregory Sivakoff.
 
 **<font size="5">Poster</font>**  
-<big>**Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution**</big>  
+<big>Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution</big>  
 *<font size="2">Poster Presentation</font>*  
 <div style="text-align: right;margin-top: -55px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
 
