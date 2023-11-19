@@ -7,6 +7,7 @@ author_profile: true
 
 These publications may also be present at [NASA/ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Arumugam%2C%20S.%22%20AND%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc){:target="_blank"}
 
+---
 
 ## First Author  
 [**Classification of pulsar glitch amplitudes using extreme deconvolution.**](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub){:target="_blank"}    
