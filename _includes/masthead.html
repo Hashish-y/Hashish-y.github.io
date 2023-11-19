@@ -12,7 +12,12 @@
               {% assign domain = '' %}
             {% else %}
               {% assign domain = base_path %}
-              <a href="{{ domain }}" target="_blank">CV</a>
+            {% endif %}
+            {% assign pdf_link = link.url | contains: '.pdf' %}
+            {% if pdf_link %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_blank">{{ link.title }}</a></li>
+            {% else %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
