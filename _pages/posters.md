@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-**<font size="6">Presentation</font>**  
+**<font size="6">Presentation</font>**
 
 **<font size="5">Transient Identification using VLASS data to understand Globular Clusters</font>**  
 *<font size="2">3-minute thesis</font>*  
@@ -20,7 +20,7 @@ redirect_from:
 Delivered a concise and engaging 3-minute thesis presentation highlighting my transformative internship experience at the
 University of Alberta under the guidance of Prof. Gregory Sivakoff.
 
-**<font size="6">Poster</font>**  
+**<font size="6">Poster</font>**
 
 **<font size="5">Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution</font>**  
 *<font size="2">Poster Presentation</font>*  
