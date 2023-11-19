@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     url: /files/Swetha_CV.pdf
-    target: "_blank"
+    target: "blank"
 
   - title: "Publications"
     url: https://swetha9730.github.io/publications/
