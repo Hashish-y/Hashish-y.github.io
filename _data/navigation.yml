@@ -9,14 +9,14 @@ main:
   - title: "Posters and Presentations"
     url: https://swetha9730.github.io/posters/
 
-  - title: "Projects"
-    url: https://swetha9730.github.io/project/
+  #- title: "Projects"
+    #url: https://swetha9730.github.io/project/
 
   - title: "Experience"
     url: https://swetha9730.github.io/experience/
 
-  - title: "PoRs"
-    url: https://swetha9730.github.io/pors/
+  #- title: "PoRs"
+  # url: https://swetha9730.github.io/pors/
 
   - title: "Media"
     url: https://swetha9730.github.io/media/    
