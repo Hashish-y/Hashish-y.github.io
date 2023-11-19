@@ -29,3 +29,9 @@ University of Alberta under the guidance of Prof. Gregory Sivakoff.
 Presented my research paper titled Classification of Pulsar Glitch Amplitudes using Extreme Devolution at the prestigious
 Inter-IIT tournament, showcasing my expertise in astrophysical data analysis.
 
+
+<div style="text-align: right;">
+
+**<span style="font-size: 12px;">University of Alberta, Canada</span>**
+
+</div>
