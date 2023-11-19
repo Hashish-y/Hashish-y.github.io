@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 
 ---
-<big>Research Intern - MITACS GRI</big>  
+<span style="text-decoration: underline;">Research Intern - MITACS GRI</span>  
 ***<font size="2">under Prof. Gregory Sivakoff </font>***
 <div style="text-align: right;margin-top: -80px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
 <div style="text-align: right;margin-top: 0px;"><span style="font-size: 12px;">May 2023 - Aug 2023</span></div>
@@ -18,7 +18,7 @@ further in the study of <strong>Globular Clusters</strong>.</font>
   * <font size="3">Contributed to refining transient identification and classification using the VLASS data.</font>
 
 
-<big>Indian Pulsar Timing Array Consortium (InPTA)</big>  
+<span style="text-decoration: underline;">Indian Pulsar Timing Array Consortium (InPTA)</span>  
 ***<font size="2">Associate Member</font>***
 <div style="text-align: right;margin-top: -80px;"><span style="font-size: 12px;">Pune, India</span></div>
 <div style="text-align: right;margin-top: 0px;"><span style="font-size: 12px;">June 2022 - Present</span></div>
@@ -30,6 +30,5 @@ manage upgraded Giant Metrewave Radio Telescope (uGMRT) legacy database using <e
   * <font size="3"><strong>Raw Data Reduction:</strong> Reducing raw data obtained from observations using Pinta pipeline.</font>
  
 
-Member of **Gravitational Radiation and Science with Pulsars (GRASP)**, where interesting pulsar projects and papers are
-discussed.
+
 
