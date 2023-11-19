@@ -1,6 +1,6 @@
 ---
 layout: archive
-<!--title: "Posters and Presentations"-->
+title: "Posters and Presentations"
 permalink: /posters/
 author_profile: true
 redirect_from: 
