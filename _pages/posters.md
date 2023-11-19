@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 
 **<font size="5">Presentation</font>**  
-<font size="4">Transient Identification using VLASS data to understand Globular Clusters</font>
+<font size="4">Transient Identification using VLASS data to understand Globular Clusters</font>  
 *<font size="2">3-minute thesis</font>*  
 <div style="text-align: right;margin-top: -55px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
 
