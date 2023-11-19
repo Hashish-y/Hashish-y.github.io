@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 
 ---
-<span style="border-bottom: 1px solid black; display: inline-block; margin-bottom: 0.2em;"><strong>Research Intern</strong>-MITACS GRI</span>  
+<span style="border-bottom: 1px solid black; display: inline-block; margin-bottom: 0.4em;"><strong>Research Intern</strong>-MITACS GRI</span>  
 *<font size="2">under Prof. Gregory Sivakoff </font>*
 <div style="text-align: right;margin-top: -80px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
 <div style="text-align: right;margin-top: 0px;"><span style="font-size: 12px;">May 2023 - Aug 2023</span></div>
