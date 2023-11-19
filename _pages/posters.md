@@ -20,7 +20,7 @@ Transient Identification using VLASS data to understand Globular Clusters
 University of Alberta under the guidance of Prof. Gregory Sivakoff.</font>
 
 ### Poster
-Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution  
+Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution
 <div style="text-align: left;margin-top: -10px;"><span style="font-size: 12px;">Poster Presentation</span></div>
 <div style="text-align: right;margin-top: -30px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
 
