@@ -8,7 +8,7 @@ author_profile: true
 These publications may also be present at [NASA/ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Arumugam%2C%20S.%22%20AND%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc){:target="_blank"}
 
 ---
-## First Author  
+## Contributed Majorily  
 [**Classification of pulsar glitch amplitudes using extreme deconvolution.**](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub){:target="_blank"}    
 <font size="3"> We carry out a classification of the glitch amplitudes of radio pulsars using Extreme Deconvolution technique based on the Gaussian Mixture Model, where the observed uncertainties in the glitch amplitudes.</font>
 
@@ -17,7 +17,7 @@ These publications may also be present at [NASA/ADS](https://ui.adsabs.harvard.e
 <font size="3"> The Indian Pulsar Timing Array (InPTA) collaboration has recently made its first official data release (DR1) for a sample of 14 pulsars using 3.5 years of uGMRT observations.</font>
 
 
-## Contributed Majorily
+## Others
 [**Multiband Extension of the Wideband Timing Technique.**](https://academic.oup.com/mnras/article/527/1/213/7310865){:target="_blank"}  
 <font size="3"> The wideband timing technique enables the high-precision simultaneous estimation of pulsar times of arrival (ToAs) and dispersion measures (DMs) while effectively modelling frequency-dependent profile evolution.</font>
 
@@ -30,7 +30,7 @@ for spatially correlated gravitational waves.**](https://www.aanda.org/articles/
 signals.**](https://www.aanda.org/articles/aa/abs/2023/10/aa46844-23/aa46844-23.html){:target="_blank"}  
 <font size="3"> We present the results of the search for an isotropic stochastic gravitational wave background (GWB) at nanohertz frequencies using the second data release of the European Pulsar Timing Array (EPTA) for 25 millisecond pulsars and a combination with the first data release of the Indian Pulsar Timing Array (InPTA).</font>
 
-## Was a part of it
+
 [**The second data release from the European Pulsar Timing Array IV. Search for continuous gravitational
 wave signals.**](https://arxiv.org/abs/2306.16226){:target="_blank"}  
 <font size="3"> We present the results of a search for continuous gravitational wave signals (CGWs) in the second data release (DR2) of the European Pulsar Timing Array (EPTA) collaboration.</font>
