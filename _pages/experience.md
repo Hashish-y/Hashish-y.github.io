@@ -15,6 +15,7 @@ author_profile: true
   * <font size="3">Performed analysis of VLASS FITS files in <strong>Python</strong> and <strong>ds9</strong>.</font>
   
 
+
 <span style="border-bottom: 1px solid black; display: inline-block; margin-bottom: 0.4em;"><strong>Indian Pulsar Timing Array Consortium (InPTA)</strong></span>  
 *<font size="2">Associate Member</font>*
 <div style="text-align: right;margin-top: -80px;"><span style="font-size: 12px;">Pune, India</span></div>
@@ -23,7 +24,7 @@ author_profile: true
   
   * <font size="3"><strong>Data Base Management:</strong> Currently working with the National Center for Radio Astrophysics (NCRA) to develop
 and manage upgraded Giant Metrewave Radio Telescope (uGMRT) legacy database using <em>PostgreSQL</em>.</font>
-  * <font size="3"><strong>Observational Radio Astronomy</strong>Active observer for InPTA, conducting 50+ hours of observations using
+  * <font size="3"><strong>Observational Radio Astronomy: </strong>Active observer for InPTA, conducting 50+ hours of observations using
 uGMRT and reduced its raw data using <em>Pinta</em> pipeline.</font>
  
  
