@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Media"
-permalink: /media/
+title: "Public Coverage"
+permalink: /public_coverage/
 author_profile: true
 ---
 
