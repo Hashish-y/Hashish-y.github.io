@@ -27,7 +27,7 @@ Inter-IIT tournament, showcasing my expertise in astrophysical data analysis.</f
 <div style="text-align: right;margin-top: -25px;"><span style="font-size: 12px;">IIT Hyderabad,India</span></div>
   
 <font size="3">Japan</font>
-![JAPAN](/files/cropped japan.jpeg)
+<img src="/files/cropped japan.jpeg" alt="Japan" width="300">
 
 ## Presentation  
 <span style="border-bottom: 1px solid black; display: inline-block; margin-bottom: 0.4em;">Transient Identification using VLASS data to understand Globular Clusters</span>
