@@ -22,7 +22,7 @@ Inter-IIT tournament, showcasing my expertise in astrophysical data analysis.</f
 
 
 
-<span style="border-bottom: 1px solid black; display: inline-block; margin-bottom: 0.4em;">InPTA efforts for nHz Gravitational Waves hunt - Japan Week</span> 
+<span style="border-bottom: 1px solid black; display: inline-block; margin-bottom: 0.4em;">InPTA efforts for nHz Gravitational Waves hunt </span> 
 <div style="text-align: left;margin-top: -25px;"><span style="font-size: 12px;"><em>Poster Presentation</em></span></div>
 <div style="text-align: right;margin-top: -25px;"><span style="font-size: 12px;">IIT Hyderabad,India</span></div>
   
