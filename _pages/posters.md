@@ -14,11 +14,13 @@ redirect_from:
 
 ## Poster
 <span style="border-bottom: 1px solid black; display: inline-block; margin-bottom: 0.4em;">InPTA efforts for nHz Gravitational Waves hunt -Japan Week</span> 
-<div style="text-align: left;margin-top: -25px;"><span style="font-size: 12px;"><em>Poster Presentation</em></span></div>
 <div style="text-align: right;margin-top: -25px;"><span style="font-size: 12px;">IIT Hyderabad,India</span></div>
   
 <!----<font size="3">Japan</font>--->
-<img src="/files/cropped japan.jpeg" alt="Japan" width="300"> 
+<div style="text-align: center;">
+  <img src="/files/cropped japan.jpeg" alt="Japan" width="300">
+</div>
+
 
 <span style="border-bottom: 1px solid black; display: inline-block; margin-bottom: 0.4em;">Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution</span> 
 <div style="text-align: left;margin-top: -25px;"><span style="font-size: 12px;"><em>Poster Presentation</em></span></div>
