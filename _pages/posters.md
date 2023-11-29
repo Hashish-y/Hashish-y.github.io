@@ -18,7 +18,7 @@ redirect_from:
   
 <!----<font size="3">Japan</font>--->
 <div style="text-align: center;">
-  <img src="/files/cropped japan.jpeg" alt="Japan" width="300">
+  <img src="/files/cropped japan.jpeg" alt="Japan" width="500">
 </div>
 
 
