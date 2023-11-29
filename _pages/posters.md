@@ -23,7 +23,7 @@ redirect_from:
 
 
 <span style="border-bottom: 1px solid black; display: inline-block; margin-bottom: 0.4em;">Classification of Pulsar Glitch Amplitudes using Extreme Deconvolution</span> 
-<div style="text-align: left;margin-top: -25px;"><span style="font-size: 12px;"><em>Poster Presentation</em></span></div>
+<!---<div style="text-align: left;margin-top: -25px;"><span style="font-size: 12px;"><em>Poster Presentation</em></span></div>--->
 <div style="text-align: right;margin-top: -25px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
   
 <font size="3">Presented my research paper titled Classification of Pulsar Glitch Amplitudes using Extreme Devolution at the prestigious
