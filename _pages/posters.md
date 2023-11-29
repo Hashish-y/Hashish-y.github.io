@@ -26,8 +26,7 @@ redirect_from:
 <!---<div style="text-align: left;margin-top: -25px;"><span style="font-size: 12px;"><em>Poster Presentation</em></span></div>--->
 <div style="text-align: right;margin-top: -60px;"><span style="font-size: 12px;">University of Alberta, Canada</span></div>
   
-<font size="3">Presented my research paper titled Classification of Pulsar Glitch Amplitudes using Extreme Devolution at the prestigious
-Inter-IIT tournament, showcasing my expertise in astrophysical data analysis.</font>
+<div style="margin-top:10px"><font size="3">Presented my research paper titled Classification of Pulsar Glitch Amplitudes using Extreme Devolution at the prestigious Inter-IIT tournament, showcasing my expertise in astrophysical data analysis.</font></div>
 
 
 ## Presentation  
