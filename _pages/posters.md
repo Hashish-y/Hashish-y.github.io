@@ -17,7 +17,7 @@ redirect_from:
 <div style="text-align: right;margin-top: -60px;"><span style="font-size: 12px;">IIT Hyderabad,India</span></div>
   
 <!----<font size="3">Japan</font>--->
-<div style="text-align: left;margin-top:10px">
+<div style="text-align: center;margin-top:10px">
   <img src="/files/cropped japan.jpeg" alt="Japan" width="400">
 </div>
 
