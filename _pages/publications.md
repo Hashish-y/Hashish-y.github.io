@@ -12,17 +12,6 @@ These publications may also be present at [NASA/ADS](https://ui.adsabs.harvard.e
 [**Classification of pulsar glitch amplitudes using extreme deconvolution.**](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub){:target="_blank"}    
 <font size="3"> We carry out a classification of the glitch amplitudes of radio pulsars using Extreme Deconvolution technique based on the Gaussian Mixture Model, where the observed uncertainties in the glitch amplitudes.</font>
 
-**Classification of pulsar glitch amplitudes using extreme deconvolution.** ([link](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub){:target="_blank"})  
-<font size="3"> Swetha Arumugam, Shantanu Desai </font>
-
-**Classification of pulsar glitch amplitudes using extreme deconvolution.** [link](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub){:target="_blank"}<font size="3"> Swetha Arumugam, Shantanu Desai </font>
-
-**Classification of pulsar glitch amplitudes using extreme deconvolution.** [link](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub){:target="_blank"}
-<font size="3" style="line-height: 1;"> Swetha Arumugam, Shantanu Desai </font>
-
-<span> **Classification of pulsar glitch amplitudes using extreme deconvolution.** ([link](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub){:target="_blank"})  </span>
-<font size="3">Swetha Arumugam, Shantanu Desai</font>
-
 
 [**Noise analysis of the Indian Pulsar Timing Array data release I.**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023008){:target="_blank"}  
 <font size="3"> The Indian Pulsar Timing Array (InPTA) collaboration has recently made its first official data release (DR1) for a sample of 14 pulsars using 3.5 years of uGMRT observations.</font>
