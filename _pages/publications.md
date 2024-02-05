@@ -10,7 +10,7 @@ These publications may also be present at [NASA/ADS](https://ui.adsabs.harvard.e
 ---
 ## Contributed Majorily  
 
-[**S. Classification of pulsar glitch amplitudes using extreme deconvolution**](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub)
+[** Classification of pulsar glitch amplitudes using extreme deconvolution**](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub)
 <font size="3">Arumugam, S. & Desai, S. Classification of pulsar glitch amplitudes using extreme deconvolution. Journal
 of High Energy Astrophysics 37, 46–50. doi:10.1016/j.jheap.2022.12.003 (Mar. 2023).</font>
 
