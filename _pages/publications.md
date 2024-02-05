@@ -47,7 +47,7 @@ These publications may also be present at [NASA/ADS](https://ui.adsabs.harvard.e
 <font size="3"> EPTA Collaboration, InPTA Collaboration, et al. The second data release from the European Pulsar Timing Array IV. Search for continuous gravitational wave signals. arXiv e-prints, arXiv:2306.16226. doi:10.48550/ arXiv.2306.16226 (June 2023). </font>
 
 
-[**The second data release from the European Pulsar TimingArray: V. Implications for massive black holes, dark matter and the early Universe**](https://arxiv.org/abs/2306.16227){:target="_blank"}<font size="3">**.**  </font>
+[**The second data release from the European Pulsar TimingArray: V. Implications for massive black holes, dark matter and the early Universe**](https://arxiv.org/abs/2306.16227){:target="_blank"}<font size="3">    </font>
 <font size="3"> EPTA Collaboration, InPTA Collaboration, et al. The second data release from the European Pulsar Timing Array: V. Implications for massive black holes, dark matter and the early Universe. arXiv e-prints, arXiv:2306.16227. doi:10.48550/arXiv.2306.16227 (June 2023).</font>
 
 
