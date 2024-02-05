@@ -10,7 +10,7 @@ These publications may also be present at [NASA/ADS](https://ui.adsabs.harvard.e
 ---
 ## Contributed Majorily  
 
-[**S. Classification of pulsar glitch amplitudes using extreme deconvolution**](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub){:target="_blank"} 
+[**S. Classification of pulsar glitch amplitudes using extreme deconvolution**](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub)
 <font size="3">Arumugam, S. & Desai, S. Classification of pulsar glitch amplitudes using extreme deconvolution. Journal
 of High Energy Astrophysics 37, 46–50. doi:10.1016/j.jheap.2022.12.003 (Mar. 2023).</font>
 
@@ -39,15 +39,21 @@ Array. III. Search for gravitational wave signals. 678, A50. doi:10.1051/0004-63
 
 
 ## Other Publications 
-[**The second data release from the European Pulsar Timing Array: V. Implications for massive black holes,
-dark matter and the early Universe.**](https://arxiv.org/abs/2306.162271){:target="_blank"}  
-<font size="3"> We present the results of a search for continuous gravitational wave signals (CGWs) in the second data release (DR2) of the European Pulsar Timing Array (EPTA) collaboration.</font>
+[**Low-frequency pulse-jitter measurement with the uGMRT I : PSR J0437−4715**](https://arxiv.org/abs/2312.01875){:target="_blank"}  
+<font size="3"> Kikunaga, T. et al. Low-frequency pulse-jitter measurement with the uGMRT I : PSR J0437−4715. arXive-prints, arXiv:2312.01875. doi:10.48550/arXiv.2312.01875 (Dec. 2023). </font>
 
 
 [**Comparing recent PTA results on the nanohertz stochastic gravitational wave background.**](https://arxiv.org/abs/2309.00693){:target="_blank"}  
-<font size="3"> The Australian, Chinese, European, Indian, and North American pulsar timing array (PTA) collaborations recently reported, at varying levels, evidence for the presence of a nanohertz gravitational wave background (GWB). </font>
+<font size="3"> The International Pulsar Timing Array Collaboration, et al. Comparing recent PTA results on the nanohertz stochastic gravitational wave background. arXiv e-prints, arXiv:2309.00693. doi:10.48550/arXiv.2309.00693 (Sept. 2023). </font>
 
 
 [**Using low-frequency scatter-broadening measurements for precision estimates of dispersion measures.**](https://arxiv.org/abs/2309.16765){:target="_blank"}  
-<font size="3"> A pulsar's pulse profile gets broadened at low frequencies due to dispersion along the line of sight or due to multi-path propagation.</font>
+<font size="3"> Singha, J., et al. Using low-frequency scatter-broadening measurements for precision estimates of dispersion measures. arXiv e-prints, arXiv:2309.16765. doi:10.48550/arXiv.2309.16765 (Sept. 2023). </font>
 
+
+[**The second data release from the European Pulsar Timing Array IV. Search for continuous gravitational wave signals. a**](https://arxiv.org/abs/2306.16226){:target="_blank"}  
+<font size="3"> EPTA Collaboration, InPTA Collaboration, et al. The second data release from the European Pulsar Timing Array IV. Search for continuous gravitational wave signals. arXiv e-prints, arXiv:2306.16226. doi:10.48550/ arXiv.2306.16226 (June 2023). </font>
+
+
+[**The second data release from the European Pulsar TimingArray: V. Implications for massive black holes, dark matter and the early Universe.**](https://arxiv.org/abs/2306.16227){:target="_blank"}  
+<font size="3"> EPTA Collaboration, InPTA Collaboration, et al. The second data release from the European Pulsar Timing Array: V. Implications for massive black holes, dark matter and the early Universe. arXiv e-prints, arXiv:2306.16227. doi:10.48550/arXiv.2306.16227 (June 2023).</font>
