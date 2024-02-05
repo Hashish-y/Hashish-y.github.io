@@ -9,11 +9,11 @@ These publications may also be present at [NASA/ADS](https://ui.adsabs.harvard.e
 
 ---
 ## Contributed Majorily  
-[**Classification of pulsar glitch amplitudes using extreme deconvolution.**](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub){:target="_blank"}    
+[**Classification of pulsar glitch amplitudes using extreme deconvolution.**](https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub){:target="_blank"}
 <font size="3"> Swetha Arumugam, Shantanu Desai </font>
 
 
-[**Noise analysis of the Indian Pulsar Timing Array data release I.**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023008){:target="_blank"}  
+[**Noise analysis of the Indian Pulsar Timing Array data release I.**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023008){:target="_blank"}
 <font size="3"> Srivastava, Aman ; Desai, Shantanu ; Kolhe, Neel ; Surnis, Mayuresh ; Joshi, Bhal Chandra ; Susobhanan, Abhimanyu ; Chalumeau, Aurélien ; Hisano, Shinnosuke ; Nobleson, K. ; Arumugam, Swetha ; Kharbanda, Divyansh ; Singha, Jaikhomba ; Tarafdar, Pratik ; Arumugam, P. ; Bagchi, Manjari ; Bathula, Adarsh ; Dandapat, Subhajit ; Dey, Lankeswar ; Dwivedi, Churchil ; Girgaonkar, Raghav ; Gopakumar, A. ; Gupta, Yashwant ; Kikunaga, Tomonosuke ; Krishnakumar, M. A. ; Liu, Kuo ; Maan, Yogesh ; Manoharan, P. K. ; Paladi, Avinash Kumar ; Rana, Prerna ; Shaifullah, Golam M. ; Takahashi, Keitaro </font>
 
 
