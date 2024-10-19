@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Swetha Arumugam"
+title                    : "Hashish Yenugula"
 title_separator          : "-"
-name                     : &name "Swetha Arumugam"
+name                     : &name "Hashish Yenugula"
 description              : &description "personal description"
-url                      : https://swetha9730.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hashish-y.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "swetha9730/swetha9730.github.io"
+repository               : "Hashish-y/Hashish-y.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Swetha Arumugam"
-  avatar           : "swetha_2023.png"
-  bio              : "Undergrad student at IIT-Hyderabad aiming to pursue PhD in Astronomy"
-  location         : "Hyderabad, India"
+  name             : "Hashish Yenugula"
+  avatar           : "hashish.png"
+  bio              : "Hardware Engineer at Qualcomm India.Alumni of IIT-Hyderabad"
+  location         : "Bengaluru, India"
   employer         : #"Indian Institute of Technology Hyderabad"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ee20btech11005@iith.ac.in"
+  email            : "hashishy1701@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "swetha9730"
+  github           : "Hashish-y"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "swetha-arumugam33"
+  linkedin         : "yenugula-hashish"
   orcid            : "https://orcid.org/0009-0001-3587-6622"
   pinterest        :
   soundcloud       :
