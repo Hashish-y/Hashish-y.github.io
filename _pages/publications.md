@@ -12,7 +12,7 @@ These publications may also be present at [NASA/ADS](https://ui.adsabs.harvard.e
 ## Publications
 
 Study of gate current in advanced MOS architectures [paper]([https://www.sciencedirect.com/science/article/abs/pii/S2214404822000799?via%3Dihub](https://doi.org/10.1016/j.sse.2022.108345)){:target="_blank"}
-<font size="3">Arumugam, S. & Desai, S. Study of gate current in advanced MOS architectures Solid-State Electronics Volume 194, August 2022, 108345.</font>
+<font size="3">Gauhar, G.A., Chenchety, A., Yenugula, H., Georgiev, V., Asenov, A., Badami, O., Study of gate current in advanced MOS architectures Solid-State Electronics Volume 194, August 2022, 108345.</font>
 
 
 ## Projects 
