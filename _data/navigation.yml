@@ -4,8 +4,11 @@ main:
     url: /files/Swetha_CV__final.pdf
     target: "_blank"
 
-  - title: "Publications"
-    url: https://swetha9730.github.io/publications/
+  - title: "Experience"
+    url: https://Hashish-y.github.io/experience/
+
+  - title: "Publications and Projects"
+    url: https://Hashish-y.github.io/publications/
 
   - title: "Posters and Presentations"
     url: https://swetha9730.github.io/posters/
@@ -13,8 +16,7 @@ main:
   #- title: "Projects"
     #url: https://swetha9730.github.io/project/
 
-  - title: "Experience"
-    url: https://Hashish-y.github.io/experience/
+
 
   #- title: "PoRs"
   # url: https://swetha9730.github.io/pors/
